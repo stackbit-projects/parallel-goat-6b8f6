@@ -28,6 +28,7 @@ sections:
       - image: /images/1200px-University_of_Alberta_seal.svg.png
         image_alt: Logo 1
       - image_alt: Logo 2
+        image: /images/IMG-1473.jpg
       - image_alt: Logo 3
       - image_alt: Logo 4
       - image: images/logo-5.svg
