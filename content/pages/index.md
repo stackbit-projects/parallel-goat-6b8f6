@@ -42,10 +42,7 @@ sections:
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+        content: 'Respectful, Considerate, all you could ask for in a media company.'
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
