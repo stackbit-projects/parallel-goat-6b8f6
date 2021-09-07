@@ -49,7 +49,7 @@ sections:
       - author: Dianne Ameter
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
-        position: 'CTO, Another Company'
+        position: 'CTO, Green Apples'
         content: Great to interview with.
   - type: cta_section
     section_id: cta
