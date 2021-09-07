@@ -38,7 +38,7 @@ sections:
     subtitle: What People Say About Us
     col_number: three
     testimonials:
-      - author: Desmond Eagle
+      - author: Abdul-Samad Olagunju
         avatar: images/desmond-eagle.jpg
         avatar_alt: Desmond Eagle's photo
         position: 'CEO and founder, A Company'
