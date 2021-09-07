@@ -50,9 +50,7 @@ sections:
         avatar: images/dianne-ameter.jpg
         avatar_alt: Dianne Ameter's photo
         position: 'CTO, Another Company'
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: Great to interview with.
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
