@@ -1,6 +1,6 @@
 ---
 title: Interviews
-subtitle: This is an optional subtitle for the portfolio page
+subtitle: What is it like to be a chemist? A physicist? Find out!
 layout_style: mosaic
 seo:
   title: Portfolio
