@@ -31,8 +31,7 @@ sections:
         image: /images/IMG-1473.jpg
       - image_alt: Logo 3
       - image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+      - image_alt: Logo 5
   - type: testimonials_section
     section_id: testimonials
     title: Testimonials
